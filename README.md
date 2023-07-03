@@ -6,6 +6,7 @@
 - 🌱 I’m currently Artificial Intelligence major
 - 🤔 I’m currently interested in NLP
 - 📫 How to reach me: ysdoh0209@khu.ac.kr
+- ⚡ TMI: MBTI-ENFP!
 
 
 
