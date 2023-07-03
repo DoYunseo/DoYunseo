@@ -3,7 +3,7 @@
 
 ### Hi, I'm Tori_Do 👋
 - 🔭 I’m currently in KyungHee Univ.
-- 🌱 I’m currently major in Artificial Intelligence
+- 🌱 I’m currently Artificial Intelligence major
 - 🤔 I’m currently interested in NLP
 - 📫 How to reach me: ysdoh0209@khu.ac.kr
 
