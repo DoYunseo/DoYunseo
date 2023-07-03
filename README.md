@@ -2,12 +2,13 @@
 
 
 ### Welcome, I'm Tori_Do 👋
+###  I'm full of passion and challenge!
 - 🔭 I’m currently in KyungHee Univ.
 - 🌱 I’m currently Artificial Intelligence major
 - 🤔 I’m currently interested in NLP
 - 📫 How to reach me: ysdoh0209@khu.ac.kr
 - ⚡ TMI: MBTI-ENFP
-###  I'm full of passion and challenge!
+
 
 
 
