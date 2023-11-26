@@ -1,13 +1,11 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Tori's%20GitHub&fontSize=90" />
 
 
 ### Welcome, I'm Tori_Do 👋
 ###  I'm full of passion and challenge!
 - 🔭 I’m currently in KyungHee Univ.
-- 🌱 I’m currently Artificial Intelligence major
+- 🌱 I’m Artificial Intelligence major
 - 🤔 I’m currently interested in NLP
 - 📫 How to reach me: ysdoh0209@khu.ac.kr
-- ⚡ TMI: MBTI-ENFP
 
 
 ## Activities
