@@ -15,10 +15,10 @@
 -  `2023.07~` Member of Planning Dept of KHUDA 4th, Data Analysis Club, KyungHee Univ. (NLP Track)
 
 ## 🏆Awards🏆
-- `2023.11` Kyunghee university 2023 KHUTHON Excellence Prize
+- `2023.11` 2023 KHUTHON Excellence Prize
 - `2023.11` SCAICO(Seoul Central AI Competition) Grand Prize
-- `2023.11` KHU 2023 SW Festival Junior Award
-- `2023.11` KHU School of Compution Track Project 2nd Prize
+- `2023.11` 2023 KHU SW Festival Junior Award
+- `2023.11` 2023 KHU School of Computing Track Project 2nd Prize
   
 
 ## Skills
