@@ -4,7 +4,7 @@
 ###  I'm full of passion and challenge!
 - 🔭 I’m currently in KyungHee Univ.
 - 🌱 I’m Artificial Intelligence major
-- 🤔 I’m currently interested in NLP
+- 🤔 I’m currently interested in Computer Vision
 - 📫 How to reach me: ysdoh0209@khu.ac.kr
 
 
@@ -13,7 +13,9 @@
 -  `2022.07~2022.01` Member of KHUDA 2nd, Data Analysis Club, KyungHee Univ. (Recommendation system Track)
 -  `2023.07~2023.11` AI Track Manager of 2023 KHU School of Computing Track
 -  `2023.07~2023.12` Member of Planning Dept of KHUDA 4th, Data Analysis Club, KyungHee Univ. (NLP Track)
+-  `2024.01` Silicon Valley Innovation & Startup Program at San Jose State Univ.
 -  `2024.01 ~ ` President of KHUDA 5th, Data Analysis Club, KyungHee Univ. (CV Track)
+-  `2024.02 ~ ` Head of AI and study at N.E.T, Kyung Hee University's computer engineering department club
   
 
 ## 🏆Awards🏆
