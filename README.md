@@ -10,7 +10,7 @@
 
 ## Activities
 -  `2022.02` Adimission to KyungHee Univ. Department of Aritficial Intelligence
--  `2022.07~2022.01` Member of KHUDA 2nd, Data Analysis Club, KyungHee Univ. (Recommendation system Track)
+-  `2022.07~2023.01` Member of KHUDA 2nd, Data Analysis Club, KyungHee Univ. (Recommendation system Track)
 -  `2023.07~2023.11` AI Track Manager of 2023 KHU School of Computing Track
 -  `2023.07~2023.12` Member of Planning Dept of KHUDA 4th, Data Analysis Club, KyungHee Univ. (NLP Track)
 -  `2024.01` Silicon Valley Innovation & Startup Program at San Jose State Univ.
