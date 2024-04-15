@@ -4,7 +4,7 @@
 ###  I'm full of passion and challenge!
 - 🔭 I’m currently in KyungHee Univ.
 - 🌱 I’m Artificial Intelligence major
-- 🤔 I’m currently interested in Computer Vision
+- 🤔 I’m currently interested in Computer Vision, especially video summarization
 - 📫 How to reach me: ysdoh0209@khu.ac.kr
 
 
@@ -19,10 +19,10 @@
   
 
 ## 🏆Awards🏆
-- `2023.11` 2023 KHUTHON Excellence Prize
-- `2023.11` SCAICO(Seoul Central AI Competition) Grand Prize
-- `2023.11` 2023 KHU SW Festival Junior Award
 - `2023.11` 2023 KHU School of Computing Track Project 2nd Prize
+- `2023.11` 2023 KHU SW Festival Junior Award
+- `2023.11` SCAICO(Seoul Central AI Competition) Grand Prize
+- `2023.11` 2023 KHUTHON Excellence Prize
   
 
 ## Skills
