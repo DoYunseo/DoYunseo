@@ -1,7 +1,7 @@
 
 
 ### Welcome, I'm Tori_Do 👋
-###  I'm full of passion and challenge!
+###  I'm always growing beyond my limits 🚀
 - 🔭 I’m currently in KyungHee Univ.
 - 🌱 I’m Artificial Intelligence major
 - 🤔 I’m currently interested in Computer Vision, especially video summarization
