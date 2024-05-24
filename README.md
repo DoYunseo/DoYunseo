@@ -10,11 +10,11 @@
 
 ## Activities
 -  `2024.02 ~ ` Head of AI and study at N.E.T, Kyung Hee University's computer engineering Dept club
--  `2024.01 ~ ` President of KHUDA 5th, Data Analysis Club, KyungHee Univ. (CV Track)
+-  `2024.01 ~ ` President of KHUDA 5th, Data Analysis & AI Club, KyungHee Univ. (CV Track)
 -  `2024.01` Completion of Silicon Valley Innovation & Startup Program at San Jose State Univ.
--  `2023.07~2023.12` Member of Planning Dept of KHUDA 4th, Data Analysis Club, KyungHee Univ. (NLP Track)
+-  `2023.07~2023.12` Member of Planning Dept of KHUDA 4th, Data Analysis & AI Club, KyungHee Univ. (NLP Track)
 -  `2023.07~2023.11` Manager of AI Track, 2023 KHU School of Computing Track
--  `2022.07~2023.01` Member of KHUDA 2nd, Data Analysis Club, KyungHee Univ. (Recommendation system Track)
+-  `2022.07~2023.01` Member of KHUDA 2nd, Data Analysis & AI Club, KyungHee Univ. (Recommendation system Track)
 -  `2022.02` Adimission to KyungHee Univ. Department of Aritficial Intelligence
   
 
