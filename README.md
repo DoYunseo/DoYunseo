@@ -49,14 +49,14 @@ Framework:<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the
 [GitHub Link: https://github.com/DoYunseo/2023_Track_Project/tree/main]
 
 - FtoA+ (2023.11)
-: An AI service for problem recommendation and generation based on the forgetting curve for class review. I was responsible for the Keybert modeling part, utilizing AI models for fill-in-the-blank inference and short-answer question generation.
+: An AI service for problem recommendation and generation based on the forgetting curve for class review. I was responsible for the Keybert and Kobart modeling part, utilizing AI models for fill-in-the-blank inference and short-answer question generation.
 [GitHub Link: https://github.com/gitwub5/FtoA]
 
 - Diverse Book Recommendation System (2023.09)
 : Implemented a book recommendation system using the 'book recommendation dataset' from Kaggle and User-based CF, Item-based CF, and Bayesian Network CF. I was responsible for Memory-based CF modeling.
 [GitHub Link: https://github.com/khuda-4th/ml_toy_project_team2]
 
-- AI Model for Detecting Sentences with Profanity (2022.12)
+- Slang Check AI (2022.12)
 : Implemented an algorithm to detect sentences containing profanity, including modified profanity, using CNN and KoBERT among deep learning models. I was responsible for the KoBERT modeling part.
 [GitHub Link: https://github.com/DoYunseo/Project-Slang_check_AI]
 
