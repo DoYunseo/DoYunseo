@@ -54,7 +54,7 @@ Framework:<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the
 
 - FtoA+ (2023.11)
 : An AI service for problem recommendation and generation based on the forgetting curve for class review. I was responsible for the Keybert and Kobart modeling part, utilizing AI models for fill-in-the-blank inference and short-answer question generation.
-[GitHub Link: https://github.com/gitwub5/FtoA]
+[GitHub Link: [https://github.com/gitwub5/FtoA](https://github.com/gitwub5/FtoA_flask_server)]
 
 - Diverse Book Recommendation System (2023.09)
 : Implemented a book recommendation system using the 'book recommendation dataset' from Kaggle and User-based CF, Item-based CF, and Bayesian Network CF. I was responsible for Memory-based CF modeling.
