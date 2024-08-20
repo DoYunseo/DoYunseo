@@ -36,6 +36,9 @@ Framework:<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoYunseo&layout=compact"><br><br>
 
 ## Projects
+- AI Face Recognition Attendance Management System (2024.06)
+: A project to develop a Face Recognition model to build a fully automated attendance check system without human intervention. I was responsible for developing a Face Recognition model and visualizing it using Streamlit.
+[GitHub Link: https://github.com/khuda-data/5th-CV-Face-Recognition-Attendance-Management-System]
 
 - Text2LEGO (2023.12)
 : A follow-up project of 'Make Anything with LEGO', combining the text to image part with the previous project. It generates images based on text prompts and creates LEGO designs based on them. I was responsible for the text to image generation part using the stable diffusion model.
