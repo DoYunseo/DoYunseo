@@ -18,14 +18,16 @@
 -  `2023.07~2023.11` Manager of AI Track, 2023 KHU School of Computing Track
 -  `2022.07~2023.01` Member of KHUDA 2nd, Data Analysis & AI Club, KyungHee Univ. (Recommendation system Track)
 -  `2022.02` Adimission to KyungHee Univ. Department of Aritficial Intelligence
-  
 
-## 🏆Awards🏆
-- `2023.11` 2023 KHU School of Computing Track Project 2nd Prize
-- `2023.11` 2023 KHU SW Festival Junior Award
-- `2023.11` SCAICO(Seoul Central AI Competition) Grand Prize
-- `2023.11` 2023 KHUTHON Excellence Prize
   
+## 🏆 Awards 🏆
+
+| Period | Competition | Prize |
+|-------|:--------:|:---------:|
+| `2023.11` | KHU School of Computing Track Project | 2nd Prize  |
+| `2023.11` | KHU SW Festival | Junior Award |
+| `2023.11` | SCAICO(Seoul Central AI Competition | Grand Prize  |
+| `2023.11` | KHUTHON | Excellence Prize |
 
 ## Skills
 
