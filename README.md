@@ -4,7 +4,7 @@
 ###  I'm always growing beyond my limits 🚀
 - 🔭 I’m currently in KyungHee Univ.
 - 🌱 I’m Artificial Intelligence major
-- 🤔 I’m currently interested in Multimodal, especially video summarization
+- 🤔 I’m currently interested in HCI, AI-based contents creation.
 - 📫 How to reach me: ysdoh0209@khu.ac.kr
 - 📁 My Portfolio: [Here!](https://simple-board-99d.notion.site/Hello-I-m-Yunseo-Do-bca71b3fd8c042938ffd6da7bb61f3e8?pvs=4)
 
