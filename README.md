@@ -10,7 +10,8 @@
 
 
 ## Activities
-- `2024.08~2025.01` KIST Europe Intern Researcher
+-  `2025.03~CURRENT` [ITEM Lab(@KHU)](https://hci.khu.ac.kr) Undergraduate Intern Researcher
+-  `2024.08~2025.01` KIST Europe Intern Researcher
 -  `2024.02~2024.07` Head of AI and study at N.E.T, Kyung Hee University's computer engineering Dept club
 -  `2024.01~2024.07` President of KHUDA 5th, Data Analysis & AI Club, KyungHee Univ. (CV Track)
 -  `2024.01` Completion of Silicon Valley Innovation & Startup Program at San Jose State Univ.
