@@ -2,19 +2,20 @@
 
 ### Welcome, I'm Tori_Do 👋
 ###  I'm always growing beyond my limits 🚀
-- 🔭 I’m currently in KyungHee Univ.
-- 🌱 I’m Artificial Intelligence major
-- 🤔 I’m currently interested in HCI, AI-based contents creation.
+Want to connect AI tech with people 💻🖇️👭
+
+- 🤔 Currently interested in HCI, AI-based contents creation.
 - 📫 How to reach me: ysdoh0209@khu.ac.kr
 - 📁 My Portfolio: [Here!](https://simple-board-99d.notion.site/Hello-I-m-Yunseo-Do-bca71b3fd8c042938ffd6da7bb61f3e8?pvs=4)
 
 
 ## Activities
+-  `2025.05~CURRENT` AI Research Club Instructor at Dongbuk High School
 -  `2025.03~CURRENT` [ITEM Lab(@KHU)](https://hci.khu.ac.kr) Undergraduate Intern Researcher
--  `2024.08~2025.01` KIST Europe Intern Researcher
+-  `2024.08~2025.01` KIST Europe Intern Researcher🇩🇪
 -  `2024.02~2024.07` Head of AI and study at N.E.T, Kyung Hee University's computer engineering Dept club
 -  `2024.01~2024.07` President of KHUDA 5th, Data Analysis & AI Club, KyungHee Univ. (CV Track)
--  `2024.01` Completion of Silicon Valley Innovation & Startup Program at San Jose State Univ.
+-  `2024.01` Completion of Silicon Valley Innovation & Startup Program at San Jose State Univ.🇺🇸
 -  `2023.07~2023.12` Member of Planning Dept of KHUDA 4th, Data Analysis & AI Club, KyungHee Univ. (NLP Track)
 -  `2023.07~2023.11` Manager of AI Track, 2023 KHU School of Computing Track
 -  `2022.07~2023.01` Member of KHUDA 2nd, Data Analysis & AI Club, KyungHee Univ. (Recommendation system Track)
