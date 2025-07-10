@@ -12,9 +12,9 @@ Want to connect AI tech with people 💻🖇️👭
 ## Activities
 -  `2025.05~CURRENT` AI Research Club Instructor at Dongbuk High School
 -  `2025.03~CURRENT` [ITEM Lab(@KHU)](https://hci.khu.ac.kr) Undergraduate Intern Researcher
--  `2024.08~2025.01` KIST Europe Intern Researcher🇩🇪
+-  `2024.08~2025.01` [KIST Europe](https://www.kist-europe.de/portal/main/main.do) Intern Researcher🇩🇪
 -  `2024.02~2024.07` Head of AI and study at N.E.T, Kyung Hee University's computer engineering Dept club
--  `2024.01~2024.07` President of KHUDA 5th, Data Analysis & AI Club, KyungHee Univ. (CV Track)
+-  `2024.01~2024.07` President of [KHUDA 5th](https://simple-board-99d.notion.site/c73b4ccb4b4f474198db0d931fa276fd?v=2c9c18f900eb40c0a3324a31a6cc1ef6&source=copy_link), Data Analysis & AI Club, KyungHee Univ. (CV Track)
 -  `2024.01` Completion of Silicon Valley Innovation & Startup Program at San Jose State Univ.🇺🇸
 -  `2023.07~2023.12` Member of Planning Dept of KHUDA 4th, Data Analysis & AI Club, KyungHee Univ. (NLP Track)
 -  `2023.07~2023.11` Manager of AI Track, 2023 KHU School of Computing Track
