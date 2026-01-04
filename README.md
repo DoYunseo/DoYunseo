@@ -10,7 +10,7 @@ Want to connect AI tech with people 💻🖇️👭
 
 
 ## Activities
--  `2025.05~CURRENT` AI Research Club Instructor at Dongbuk High School
+-  `2025.05~2025.10` AI Research Club Instructor at Dongbuk High School
 -  `2025.03~CURRENT` [ITEM Lab(@KHU)](https://hci.khu.ac.kr) Undergraduate Intern Researcher
 -  `2024.08~2025.01` [KIST Europe](https://www.kist-europe.de/portal/main/main.do) Intern Researcher🇩🇪
 -  `2024.02~2024.07` Head of AI and study at N.E.T, Kyung Hee University's computer engineering Dept club
