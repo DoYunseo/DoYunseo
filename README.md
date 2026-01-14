@@ -1,10 +1,10 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=27A861&random=false&width=435&lines=+Hi%2C+I'm+Yunseo+Do+%F0%9F%99%82)](https://git.io/typing-svg)
 
 
-### Welcome, I'm Tori_Do 👋
 ###  I'm always growing beyond my limits 🚀
 Want to connect AI tech with people 💻🖇️👭
 
-- 🤔 Currently interested in HCI, AI-based contents creation.
+- 🤔 Currently interested in HCI
 - 📫 How to reach me: ysdoh0209@khu.ac.kr
 - 📁 My Portfolio: [Here!](https://simple-board-99d.notion.site/Hello-I-m-Yunseo-Do-bca71b3fd8c042938ffd6da7bb61f3e8?pvs=4)
 
@@ -22,13 +22,13 @@ Want to connect AI tech with people 💻🖇️👭
 -  `2022.02` Adimission to KyungHee Univ. Department of Aritficial Intelligence
 
   
-## 🏆 Awards 🏆
+##  Awards 
 
 | Period | Competition | Prize |
 |-------|:--------:|:---------:|
 | `2023.11` | KHU School of Computing Track Project | 2nd Prize  |
 | `2023.11` | KHU SW Festival | Junior Award |
-| `2023.11` | SCAICO(Seoul Central AI Competition | Grand Prize  |
+| `2023.11` | SCAICO(Seoul Central AI Competition) | Grand Prize  |
 | `2023.11` | KHUTHON | Excellence Prize |
 
 ## Skills
@@ -36,22 +36,5 @@ Want to connect AI tech with people 💻🖇️👭
 
 Language: <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white"> 
 
-Framework:<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"> <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> 
+Framework: <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"> <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoYunseo&layout=compact"><br><br>
-
-
-<!--
-**DoYunseo/DoYunseo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
