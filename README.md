@@ -27,6 +27,7 @@ Want to connect AI tech with people 💻🖇️👭
 
 | Period | Competition | Prize |
 |-------|:--------:|:---------:|
+| `2026.01` | KSC (Korea Software Congress) 2025 | Encouragement Prize |
 | `2023.11` | KHU School of Computing Track Project | 2nd Prize  |
 | `2023.11` | KHU SW Festival | Junior Award |
 | `2023.11` | SCAICO(Seoul Central AI Competition) | Grand Prize  |
