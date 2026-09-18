@@ -6,7 +6,7 @@ Want to connect AI tech with people 💻🖇️👭
 
 - 🤔 Currently interested in Physical Human-AI Interaction
 - 📫 How to reach me: ysdoh0209@khu.ac.kr
-- 📁 [Portfolio](https://simple-board-99d.notion.site/Hello-I-m-Yunseo-Do-bca71b3fd8c042938ffd6da7bb61f3e8?pvs=4) & [CV](https://drive.google.com/file/d/1-c2eDTfK60VP7ZamORlMhFRc_k_DOo1v/view?usp=sharing)
+- 📁 [Personal Homepage](https://doyunseo.github.io/) & [CV](https://drive.google.com/file/d/1-c2eDTfK60VP7ZamORlMhFRc_k_DOo1v/view?usp=sharing)
 
 
 ## Activities
